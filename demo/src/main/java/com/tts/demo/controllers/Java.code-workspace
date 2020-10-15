@@ -6,6 +6,10 @@
 		{
 			"name": "demo",
 			"path": "../../../../../../.."
+		},
+		{
+			"name": "h2explorer",
+			"path": "../../../../../../../../Example2/h2explorer"
 		}
 	],
 	"settings": {}
